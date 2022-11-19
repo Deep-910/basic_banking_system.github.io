@@ -29,4 +29,4 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 That repository is created by me on the date of 10th November 2022.
 
 # website link
-[https://DEEP-910.github.io/The-Banking-system/](https://deep-910.github.io/basic_banking_system.github.io/)
+https://deep-910.github.io/basic_banking_system.github.io/
